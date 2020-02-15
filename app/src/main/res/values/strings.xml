@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GovtFireflies</string>
+    <string name="string_login">Login</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_register">Register</string>
+    <string name="string_signup_using_google">Sign up using Google</string>
+    <string name="string_google_signup">Sign up with Google</string>
+    <string name="string_signup_either">SIGN UP EITHER</string>
+    <string name="string_login_either">Login Either</string>
+    <string name="string_name">Name</string>
+    <string name="string_sent_message">This is a sent Message</string>
+    <string name="string_received_message">This is a received message</string>
+    <string name="string_hint_message">Type a message…</string>
+    <string name="string_hint_room_name">Sample Chat Room</string>
+    <string name="string_hint_room_date">Since 20 July 2020</string>
+    <string name="string_hint_add_room">Enter Room Name</string>
+    <string name="string_add_room">Add Chat Room</string>
+    <string name="string_create_room">Create Room</string>
+    <string name="error_empty_room">Room Name cannot be Empty</string>
+    <string name="string_google_sign_in">Google Sign In Button</string>
+    <string name="string_google_login">Login with Google</string>
+    <string name="string_password">Password</string>
+    <string name="string_email">Email</string>
+</resources>

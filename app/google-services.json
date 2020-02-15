@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133526932953",
+    "firebase_url": "https://govtfireflies.firebaseio.com",
+    "project_id": "govtfireflies",
+    "storage_bucket": "govtfireflies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133526932953:android:b1a7025907ec787f311dc8",
+        "android_client_info": {
+          "package_name": "com.fireflies.govtfireflies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133526932953-oi0t5i42invmmi3g7ael59m9u0hfb017.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fireflies.govtfireflies",
+            "certificate_hash": "2529ba397c74e853ad674627942258169b840f3d"
+          }
+        },
+        {
+          "client_id": "133526932953-ajf7lmg9bh901t13fveein7oqb1lpb5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3nnVtyCOPdxvA40VgLzV8ST2U-oFjvIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133526932953-ajf7lmg9bh901t13fveein7oqb1lpb5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
